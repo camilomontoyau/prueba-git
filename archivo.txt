@@ -10,5 +10,3 @@ Ana María Restrepo Piedrahíta
 Duvian Restrepo Uribe
 
 Sneider Muñoz Saldarriaga
-
-git status
